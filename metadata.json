@@ -1,0 +1,7 @@
+{
+  "name": "SwiftScan Mail",
+  "description": "Instant business card scanning to professional email follow-up.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
