@@ -1,6 +1,6 @@
 import React from 'react';
 import { ScanRecord } from '../types';
-import { Clock, CheckCircle, Mail, ChevronRight, X, Phone } from 'lucide-react';
+import { Clock, CheckCircle, Mail, ChevronRight, X } from 'lucide-react';
 
 interface HistoryListProps {
   records: ScanRecord[];

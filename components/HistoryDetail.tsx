@@ -1,6 +1,6 @@
 import React from 'react';
 import { ScanRecord } from '../types';
-import { X, Calendar, Mail, Phone, Building, User, ExternalLink } from 'lucide-react';
+import { X, Calendar, Mail, Phone, Building, User } from 'lucide-react';
 
 interface HistoryDetailProps {
   record: ScanRecord;

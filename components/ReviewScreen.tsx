@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ContactInfo, GeneratedEmail, AppSettings } from '../types';
-import { Send, Edit2, ArrowLeft, Check, RefreshCw, Mail, Phone } from 'lucide-react';
+import { Send, ArrowLeft, RefreshCw, Phone } from 'lucide-react';
 import { sendGmail } from '../services/googleService';
 
 interface ReviewScreenProps {
